@@ -4,4 +4,4 @@ A script that waits patiently for iTunes to start, and then shoots it on sight. 
 
 ### Wait, why?
 
-iTunes is annoying and I often open it up by accident
+iTunes is annoying and I often open it up by accident.
