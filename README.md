@@ -1,5 +1,7 @@
 ## Sniper
 
+<img src="https://i.imgur.com/fXXyXr9.jpg" alt="The Littlest Sniper (no affiliation)" width="40%"> 
+
 A script that waits patiently for iTunes to start, and then shoots it on sight. This script can be easily modified to kill any other programs when they start too. 
 
 ### Wait, why?
