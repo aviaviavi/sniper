@@ -1,6 +1,6 @@
 #!/bin/bash
 
-targets=("iTunes" "iTunesHelper" "iTunesLibraryService")
+targets=("iTunes" "iTunesHelper" "iTunesLibraryService" "Music")
 
 while true; do
 
